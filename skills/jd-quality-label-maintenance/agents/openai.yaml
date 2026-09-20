@@ -1,0 +1,4 @@
+interface:
+  display_name: "京东品质标签维护"
+  short_description: "按 SPU 底表分批维护京东品质标签并逐批回读结果"
+  default_prompt: "根据我上传的 SPU 底表和证明材料，在京麦品质标签页面批量提交申请。标签由我在页面选择，有效期默认一年。"
